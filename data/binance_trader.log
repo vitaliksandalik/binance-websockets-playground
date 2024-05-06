@@ -1,0 +1,25 @@
+02:44:14 - BinanceTraderLogger - INFO - Subscribed to Order Book and User Data Stream.
+02:44:16 - BinanceTraderLogger - INFO - Trading Opportunity Found! Spread is 0.01%
+02:44:18 - BinanceTraderLogger - INFO - Going to cooldown.
+02:44:18 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64224.94000000 status NEW
+02:44:59 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64224.94000000 status FILLED
+02:45:18 - BinanceTraderLogger - INFO - Trading Opportunity Found! Spread is 0.03%
+02:45:20 - BinanceTraderLogger - INFO - Going to cooldown.
+02:45:20 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64200.14000000 status NEW
+02:45:37 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64200.14000000 status FILLED
+02:47:55 - BinanceTraderLogger - INFO - Subscribed to Order Book and User Data Stream.
+02:47:56 - BinanceTraderLogger - INFO - Trading Opportunity Found! Spread is 0.02%
+02:47:58 - BinanceTraderLogger - INFO - Going to cooldown.
+02:47:58 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64169.44000000 status NEW
+02:57:01 - BinanceTraderLogger - INFO - Subscribed to Order Book and User Data Stream.
+02:57:04 - BinanceTraderLogger - INFO - Trading Opportunity Found! Spread is 0.01%
+02:57:06 - BinanceTraderLogger - INFO - Going to cooldown.
+02:58:06 - BinanceTraderLogger - INFO - Trading Opportunity Found! Spread is 0.01%
+02:58:08 - BinanceTraderLogger - INFO - Going to cooldown.
+02:59:10 - BinanceTraderLogger - INFO - Trading Opportunity Found! Spread is 0.01%
+02:59:12 - BinanceTraderLogger - INFO - Going to cooldown.
+02:59:12 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64207.58000000 status NEW
+03:00:12 - BinanceTraderLogger - INFO - Trading Opportunity Found! Spread is 0.02%
+03:00:14 - BinanceTraderLogger - INFO - Going to cooldown.
+03:00:14 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64224.28000000 status NEW
+03:00:42 - BinanceTraderLogger - INFO - Order Update: BTCUSDT BUY at 64224.28000000 status FILLED
